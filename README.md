@@ -17,7 +17,6 @@ RandomPasswordGeneratorCpp is a simple yet powerful C++ program designed to gene
 ## How to Use
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/SagarBiswas-MultiHAT/RandomPasswordGeneratorCpp.git
    ```
 2. Navigate to the project directory:
