@@ -18,7 +18,7 @@ RandomPasswordGeneratorCpp is a simple yet powerful C++ program designed to gene
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RandomPasswordGeneratorCpp.git
+   git clone https://github.com/SagarBiswas-MultiHAT/RandomPasswordGeneratorCpp.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -50,6 +50,6 @@ RandomPasswordGeneratorCpp is a simple yet powerful C++ program designed to gene
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [SAGAR BISWAS](https://github.com/SagarBiswas-MultiHAT)
 
 ```
